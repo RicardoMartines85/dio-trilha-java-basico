@@ -16,7 +16,7 @@ public class ContaTerminal {
         System.out.println("Digite seu sobrenome:");
         String sobrenome = scanner.next();
 
-        System.out.println("Digite sua argencia:");
+        System.out.println("Digite sua agencia:");
         String agencia = scanner.next();
 
         System.out.println("Digite sua conta:");
